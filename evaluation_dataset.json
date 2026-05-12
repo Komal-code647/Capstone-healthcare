@@ -1,0 +1,14 @@
+[
+  {
+    "question": "I have chest pain and shortness of breath",
+    "ground_truth": "Chest pain and shortness of breath may indicate serious cardiac or pulmonary conditions and require immediate medical evaluation."
+  },
+  {
+    "question": "I have fever and sore throat",
+    "ground_truth": "Fever and sore throat may be caused by viral or bacterial infections and may require hydration, rest, and medical evaluation if symptoms worsen."
+  },
+  {
+    "question": "I feel dizzy and weak",
+    "ground_truth": "Dizziness and weakness can occur due to dehydration, anemia, low blood pressure, or other medical conditions."
+  }
+]

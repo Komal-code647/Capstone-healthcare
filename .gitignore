@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+
+.env
+
+faiss_index/
+data/
+
+.cache/
+huggingface/
+
+streamlit_logs/
+
+evaluation_results/
+
+*.db
