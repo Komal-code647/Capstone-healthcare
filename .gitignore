@@ -5,7 +5,7 @@ __pycache__/
 .env
 
 faiss_index/
-data/
+data/final_medical_articles.csv
 
 .cache/
 huggingface/
